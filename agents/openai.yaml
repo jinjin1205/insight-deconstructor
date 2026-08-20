@@ -1,0 +1,4 @@
+interface:
+  display_name: "洞察剥离器"
+  short_description: "Force four-step analysis to isolate measurable hard constraints"
+  default_prompt: "Use $insight-deconstructor to analyze this project and identify its quantifiable hard constraints."
